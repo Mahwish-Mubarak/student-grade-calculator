@@ -13,9 +13,9 @@ Takes marks as input and returns the grade.
 
 
 students_grades = [
-    ("John", 90), ("Marcin", 100), ("Mahwish", 100), ("Roy", 100),
-    ("Anna", 70), ("Poul", 60), ("Mark", 75), ("Prabha", 89),
-    ("Michael", 50), ("Vannesa", 87)
+    ("John", 90), ("Marin", 100), ("Vinni", 100), ("Roni", 100),
+    ("Anna", 70), ("Poul", 60), ("Mark", 75), ("Prat", 89),
+    ("Michael", 50), ("Varun", 87)
 ]
 
 def average():
